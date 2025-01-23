@@ -1,0 +1,103 @@
+[
+    {
+      "codigo": "V001",
+      "descripcion": "Zanahoria",
+      "precio": 0.50
+    },
+    {
+      "codigo": "V002",
+      "descripcion": "Tomate",
+      "precio": 0.80
+    },
+    {
+      "codigo": "V003",
+      "descripcion": "Cebolla",
+      "precio": 0.60
+    },
+    {
+      "codigo": "V004",
+      "descripcion": "Papa",
+      "precio": 0.40
+    },
+    {
+      "codigo": "V005",
+      "descripcion": "Pimiento rojo",
+      "precio": 1.20
+    },
+    {
+      "codigo": "V006",
+      "descripcion": "Brócoli",
+      "precio": 1.50
+    },
+    {
+      "codigo": "V007",
+      "descripcion": "Espinaca",
+      "precio": 1.00
+    },
+    {
+      "codigo": "V008",
+      "descripcion": "Lechuga",
+      "precio": 0.70
+    },
+    {
+      "codigo": "V009",
+      "descripcion": "Calabacín",
+      "precio": 1.10
+    },
+    {
+      "codigo": "V010",
+      "descripcion": "Pepino",
+      "precio": 0.90
+    },
+    {
+      "codigo": "V011",
+      "descripcion": "Ajo",
+      "precio": 0.20
+    },
+    {
+      "codigo": "V012",
+      "descripcion": "Coliflor",
+      "precio": 1.80
+    },
+    {
+      "codigo": "V013",
+      "descripcion": "Berenjena",
+      "precio": 1.30
+    },
+    {
+      "codigo": "V014",
+      "descripcion": "Rábano",
+      "precio": 0.50
+    },
+    {
+      "codigo": "V015",
+      "descripcion": "Chícharos",
+      "precio": 2.00
+    },
+    {
+      "codigo": "V016",
+      "descripcion": "Apio",
+      "precio": 0.60
+    },
+    {
+      "codigo": "V017",
+      "descripcion": "Perejil",
+      "precio": 0.40
+    },
+    {
+      "codigo": "V018",
+      "descripcion": "Repollo",
+      "precio": 0.90
+    },
+    {
+      "codigo": "V019",
+      "descripcion": "Camote",
+      "precio": 0.70
+    },
+    {
+      "codigo": "V020",
+      "descripcion": "Jengibre",
+      "precio": 1.90
+    }
+  ]
+  
